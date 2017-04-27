@@ -1,19 +1,18 @@
-# mvc_java01
-Nama : Icha Nafisatul Khumairoh <br>
+
+Nama : Andini Novidayanti Ardiningrum <br>
 Kelas : XI RPL 3 <br>
-No.urut : 13 <br>
-NIS : 4721 <br>
+No.urut : 3 <br>
 Nama Sekolah : SMK Telkom Malang <br>
 
 Aplikasi ini digunakan untuk mendata barang yang berada di toko, aplikasi ini diperuntukkan untuk admin toko.<br>
 Dengan syarat admin harus meakukan login pada form login, seperti gambar dibawah ini :
 
-![Screenshoot](https://github.com/ichanafisah/mvc_java01/blob/master/a.PNG)
+![1](https://cloud.githubusercontent.com/assets/22464643/25484270/8aa383ca-2b83-11e7-9109-d7c107257739.PNG)
 
 Apabila admin belum memiliki username dan password maka admin harus melakukan "Sign Up" terlebih dahulu. Apabila 
 sudah melkukan "Sign Up" maka akan muncul JOptionPane, seperti gambar dibawah ini :
 
-![Screenshoot](https://github.com/ichanafisah/mvc_java01/blob/master/b.PNG)
+![2](https://cloud.githubusercontent.com/assets/22464643/25484273/8c7ecfec-2b83-11e7-8123-dbeab8a2a323.PNG)
 
 Lalu, admin dapat melakukan "Sign In" dan akan memasuki halaman home. Pada halaman home admin dapat memasukkan pemasokan 
 barang pada form yang telah disediakan. Form seperti gambar dibawah ini :
