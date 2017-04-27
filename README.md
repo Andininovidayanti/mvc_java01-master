@@ -17,7 +17,7 @@ sudah melkukan "Sign Up" maka akan muncul JOptionPane, seperti gambar dibawah in
 Lalu, admin dapat melakukan "Sign In" dan akan memasuki halaman home. Pada halaman home admin dapat memasukkan pemasokan 
 barang pada form yang telah disediakan. Form seperti gambar dibawah ini :
 
-![Screenshoot](https://github.com/ichanafisah/mvc_java01/blob/master/c.PNG)
+![2](https://cloud.githubusercontent.com/assets/22464643/25484273/8c7ecfec-2b83-11e7-8123-dbeab8a2a323.PNG)
 
 Nah, ketika kita masuk pada halaman home maka dipojok kiri atas akan tertera nama admin sesuai dengan username admin
 ketika "Sign In". <br> 
